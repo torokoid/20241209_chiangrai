@@ -139,6 +139,9 @@ p.note { display: none; }
 <a href="IMG_1611.HEIC" target="_blank"><img src="IMG_1611.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1612.HEIC" target="_blank"><img src="IMG_1612.HEIC" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">庭に住むアヒルの一家</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBWCyMUTFqM?si=k4O_rcSFbGLU2QTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <a href="IMG_1614.HEIC" target="_blank"><img src="IMG_1614.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1615.HEIC" target="_blank"><img src="IMG_1615.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1616.HEIC" target="_blank"><img src="IMG_1616.HEIC" alt="サンプル画像" width="900" /></a>
@@ -166,6 +169,7 @@ p.note { display: none; }
 <h2><span class="yellow">いとこは50歳まで僧侶を務めた現在59歳、タイの富裕層ですね〜</span></h2>
 <a href="20241208_005.JPG" target="_blank"><img src="20241208_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1627.HEIC" target="_blank"><img src="IMG_1627.HEIC" alt="サンプル画像" width="900" /></a>
+
 
 
 <h2><span class="yellow">12月9日、猛毒のヘビ、コブラの子供を退治！<br>絶対に生き返らないよう、頭を完全に潰します</span></h2>
