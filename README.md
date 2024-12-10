@@ -189,7 +189,7 @@ p.note { display: none; }
 <h2><span class="yellow">午後はいつものプール、入り口のお花は満開</span></h2>
 <a href="IMG_1629.HEIC" target="_blank"><img src="IMG_1629.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">料金支払いシステムがちょっと複雑で、毎回管理人さんのお世話になります<br>画像クリックで支払いシステムに飛びます</span></h2>
+<h2><span class="yellow">料金支払いシステムがちょっと複雑で、毎回管理人さんのお世話になります<br>画像クリックで、大学の料金支払いシステムに飛びます</span></h2>
 <a href="https://reserv-scc.mfu.ac.th" target="_blank"><img src="IMG_1630.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1631.HEIC" target="_blank"><img src="IMG_1631.HEIC" alt="サンプル画像" width="900" /></a>
 
