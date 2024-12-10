@@ -127,11 +127,13 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">12月8日、朝一でトラックの荷台から砂が運び込まれました</span></h2>
+<h2><span class="yellow">12月8日、朝一でトラックの荷台から砂が運び込まれました<br>猫の遊び場になってます</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwOevt3PEGM?si=LbdKZ_1vYSO4Ztb5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">この辺りは皆農家なので一家に一台、これがあります</span></h2>
 <a href="IMG_1608.HEIC" target="_blank"><img src="IMG_1608.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">重機を使うので砂山はあっという間に消えました</span></h2>
 <a href="IMG_1609.HEIC" target="_blank"><img src="IMG_1609.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1610.HEIC" target="_blank"><img src="IMG_1610.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1611.HEIC" target="_blank"><img src="IMG_1611.HEIC" alt="サンプル画像" width="900" /></a>
@@ -166,8 +168,32 @@ p.note { display: none; }
 <a href="IMG_1627.HEIC" target="_blank"><img src="IMG_1627.HEIC" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">12月9日、猛毒のヘビ、コブラの子供を退治！</span></h2>
+<h2><span class="yellow">12月9日、猛毒のヘビ、コブラの子供を退治！<br>絶対に生き返らないよう、頭を完全に潰します</span></h2>
+<a href="IMG_1628.HEIC" target="_blank"><img src="IMG_1628.HEIC" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">午後はいつものプール、入り口のお花は満開</span></h2>
+<a href="IMG_1629.HEIC" target="_blank"><img src="IMG_1629.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">料金支払いシステムがちょっと複雑で、毎回管理人さんのお世話になります</span></h2>
+<a href="IMG_1630.HEIC" target="_blank"><img src="IMG_1630.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1631.HEIC" target="_blank"><img src="IMG_1631.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">熱帯の強烈な日差しでコースローブの樹脂がパキパキ割れて、プールサイドに溜まります</span></h2>
+<a href="IMG_1632.HEIC" target="_blank"><img src="IMG_1632.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1633.HEIC" target="_blank"><img src="IMG_1633.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1634.HEIC" target="_blank"><img src="IMG_1634.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">プールから見えた、昼間のお月様</span></h2>
+<a href="IMG_1637.HEIC" target="_blank"><img src="IMG_1637.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1638.HEIC" target="_blank"><img src="IMG_1638.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">プール周辺の鉢植えのお花たちです</span></h2>
+<a href="IMG_1639.HEIC" target="_blank"><img src="IMG_1639.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1640.HEIC" target="_blank"><img src="IMG_1640.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1641.HEIC" target="_blank"><img src="IMG_1641.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1642.HEIC" target="_blank"><img src="IMG_1642.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1643.HEIC" target="_blank"><img src="IMG_1643.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1644.HEIC" target="_blank"><img src="IMG_1644.HEIC" alt="サンプル画像" width="900" /></a>
 
 
 
