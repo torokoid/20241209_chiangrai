@@ -130,7 +130,7 @@ p.note { display: none; }
 <h2><span class="yellow">12月8日、朝一でトラックの荷台から砂が運び込まれました</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwOevt3PEGM?si=LbdKZ_1vYSO4Ztb5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<h2><span class="yellow">この辺りには一家に一台、これがあります</span></h2>
+<h2><span class="yellow">この辺りは皆農家なので一家に一台、これがあります</span></h2>
 <a href="IMG_1608.HEIC" target="_blank"><img src="IMG_1608.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1609.HEIC" target="_blank"><img src="IMG_1609.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1610.HEIC" target="_blank"><img src="IMG_1610.HEIC" alt="サンプル画像" width="900" /></a>
@@ -164,6 +164,9 @@ p.note { display: none; }
 <h2><span class="yellow">いとこは50歳まで僧侶を務めた現在59歳、タイの富裕層ですね〜</span></h2>
 <a href="20241208_005.JPG" target="_blank"><img src="20241208_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1627.HEIC" target="_blank"><img src="IMG_1627.HEIC" alt="サンプル画像" width="900" /></a>
+
+
+<h2><span class="yellow">12月9日、猛毒のヘビ、コブラの子供を退治！</span></h2>
 
 
 
