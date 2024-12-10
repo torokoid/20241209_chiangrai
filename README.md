@@ -178,6 +178,7 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjUnqamu0jQ?si=gq6YIEWLl9H1D_wZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+<h2><span class="yellow">以下の2枚は画像クリックで動画再生します</span></h2>
 <a href="https://youtube.com/shorts/-U-zggq2LIc?feature=share" target="_blank"><img src="20241208_001.png" alt="サンプル画像" width="900" /></a>
 <a href="https://youtube.com/shorts/R1P9cxdcGXQ?feature=share" target="_blank"><img src="20241208_002.png" alt="サンプル画像" width="900" /></a>
 
