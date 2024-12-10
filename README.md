@@ -136,6 +136,8 @@ p.note { display: none; }
 <h2><span class="yellow">重機を使うので砂山はあっという間に消えました</span></h2>
 <a href="IMG_1609.HEIC" target="_blank"><img src="IMG_1609.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1610.HEIC" target="_blank"><img src="IMG_1610.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">バナナは自生しているので、買う必要なし</span></h2>
 <a href="IMG_1611.HEIC" target="_blank"><img src="IMG_1611.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1612.HEIC" target="_blank"><img src="IMG_1612.HEIC" alt="サンプル画像" width="900" /></a>
 
@@ -170,6 +172,14 @@ p.note { display: none; }
 <a href="20241208_005.JPG" target="_blank"><img src="20241208_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1627.HEIC" target="_blank"><img src="IMG_1627.HEIC" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">バイク関連動画まとめ</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rDuC7A9vuEg?si=-Gml1TcsyVqkIjq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjUnqamu0jQ?si=gq6YIEWLl9H1D_wZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<a href="https://youtube.com/shorts/-U-zggq2LIc?feature=share" target="_blank"><img src="20241208_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/R1P9cxdcGXQ?feature=share" target="_blank"><img src="20241208_002.png" alt="サンプル画像" width="900" /></a>
 
 
 <h2><span class="yellow">12月9日、猛毒のヘビ、コブラの子供を退治！<br>絶対に生き返らないよう、頭を完全に潰します</span></h2>
