@@ -131,37 +131,37 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwOevt3PEGM?si=LbdKZ_1vYSO4Ztb5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">この辺りは皆農家なので一家に一台、これがあります</span></h2>
-<a href="IMG_1608.HEIC" target="_blank"><img src="IMG_1608.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1608.jpeg" target="_blank"><img src="IMG_1608.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">重機を使うので砂山はあっという間に消えました</span></h2>
-<a href="IMG_1609.HEIC" target="_blank"><img src="IMG_1609.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1610.HEIC" target="_blank"><img src="IMG_1610.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1609.jpeg" target="_blank"><img src="IMG_1609.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1610.jpeg" target="_blank"><img src="IMG_1610.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">バナナは自生しているので、買う必要なし</span></h2>
-<a href="IMG_1611.HEIC" target="_blank"><img src="IMG_1611.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1612.HEIC" target="_blank"><img src="IMG_1612.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1611.jpeg" target="_blank"><img src="IMG_1611.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1612.jpeg" target="_blank"><img src="IMG_1612.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">庭に住むアヒルの一家</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBWCyMUTFqM?si=k4O_rcSFbGLU2QTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<a href="IMG_1614.HEIC" target="_blank"><img src="IMG_1614.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1615.HEIC" target="_blank"><img src="IMG_1615.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1616.HEIC" target="_blank"><img src="IMG_1616.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1614.jpeg" target="_blank"><img src="IMG_1614.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1615.jpeg" target="_blank"><img src="IMG_1615.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1616.jpeg" target="_blank"><img src="IMG_1616.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">午後にはチェンマイから2時間かけて、いとこが遊びにきてくれました<br>なんとHonda Rebel1100です！</span></h2>
-<a href="IMG_1618.HEIC" target="_blank"><img src="IMG_1618.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1619.HEIC" target="_blank"><img src="IMG_1619.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1618.jpeg" target="_blank"><img src="IMG_1618.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1619.jpeg" target="_blank"><img src="IMG_1619.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">大型バイクに乗るだけあって、装備はバッチリ</span></h2>
-<a href="IMG_1620.HEIC" target="_blank"><img src="IMG_1620.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1626.HEIC" target="_blank"><img src="IMG_1626.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1620.jpeg" target="_blank"><img src="IMG_1620.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1626.jpeg" target="_blank"><img src="IMG_1626.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ヘルメットが転げ落ちないように、ほうきをうまく使ってます</span></h2>
-<a href="IMG_1621.HEIC" target="_blank"><img src="IMG_1621.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1622.HEIC" target="_blank"><img src="IMG_1622.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1623.HEIC" target="_blank"><img src="IMG_1623.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1624.HEIC" target="_blank"><img src="IMG_1624.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1625.HEIC" target="_blank"><img src="IMG_1625.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1621.jpeg" target="_blank"><img src="IMG_1621.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1622.jpeg" target="_blank"><img src="IMG_1622.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1623.jpeg" target="_blank"><img src="IMG_1623.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1624.jpeg" target="_blank"><img src="IMG_1624.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1625.jpeg" target="_blank"><img src="IMG_1625.jpeg" alt="サンプル画像" width="900" /></a>
 
 <a href="20241208_001.JPG" target="_blank"><img src="20241208_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241208_002.JPG" target="_blank"><img src="20241208_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -170,7 +170,24 @@ p.note { display: none; }
 
 <h2><span class="yellow">いとこは50歳まで僧侶を務めた現在59歳、タイの富裕層ですね〜</span></h2>
 <a href="20241208_005.JPG" target="_blank"><img src="20241208_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1627.HEIC" target="_blank"><img src="IMG_1627.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1627.jpeg" target="_blank"><img src="IMG_1627.jpeg" alt="サンプル画像" width="900" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2><span class="yellow">バイク関連動画まとめ</span></h2>
 
